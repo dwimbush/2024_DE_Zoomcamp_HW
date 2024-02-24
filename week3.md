@@ -1,7 +1,7 @@
 # 2024_Data_Engineering_Zoomcamp_Homework
 Repository for 2024 Data Engineering Zoomcamp Homework
 
-## Week 3 Data Warehouse
+## Week 3 Data Warehouse 
 
 ### Question 1: What is count of records for the 2022 Green Taxi Data?
 ```SQL
